@@ -9,4 +9,5 @@ Saved
 *.sln
 *.suo
 *.xcodeproj
-*.xcworkspace
+*.xcworkspace*.ipch
+.vs/
